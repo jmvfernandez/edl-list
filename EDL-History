@@ -12,3 +12,4 @@
 1330-1331 - TP-Link Archer Router Command Injection Vulnerability
 1332 - Realtek Jungle SDK Remote Code Execution Vulnerability
 1333-1353 - PHP CGI Query String Parameter Handling Information Disclosure Vulnerability
+1354-1357 - TLS Encrypted Client Hello Extension Detection
