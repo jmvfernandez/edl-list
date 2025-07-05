@@ -3,7 +3,7 @@
 898-1029 - SIPVicious Scanner Detection (Jan 14 to May 25, 2025)
 1030 - SIP INVITE Method Request Flood Attempt (May 25, 2025)
 1031-1203 - High Severity for Subwebs 253 (203.82.46.165) from Jan 16 to May 21, 2025 (May 25, 2025)
-1204-1310 - Medium, High, and Critical Severies for HRIS4 249/Recruitment.pids.gov.ph (203.82.46.182)(May 25, 2025)
+1204-1310 - Medium, High, and Critical Severities for HRIS4 249/Recruitment.pids.gov.ph (203.82.46.182)(May 25, 2025)
 1311-1319 - Ruckus Wireless Admin Remote Code Execution Vulnerability (May 26, 2025)
 1320-1322 - Various threats/vulnerabilities (Note: Abuse IP 198.98.59.103 | Reference: https://www.abuseipdb.com/check/198.98.59.103)(May 27, 2025)
 1323-1326 - Threats for Asus Routers to add persistent SSH Backdoor (May 29, 2025)
@@ -16,3 +16,4 @@
 1358-1367 - Realtek Jungle SDK Remote Code Execution Vulnerability
 1368-2517 - Scan Host Sweep (July 1, 2025)
 2518-2560 - Spyware targeting VoIP Server 236 (July 1, 2025)
+2561-2714 - Critical Severity for 249/Recruitment.pids.gov.ph (July 5, 2025)
