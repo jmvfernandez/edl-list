@@ -1,0 +1,8 @@
+1-11 - Alibaba Cloud IoT (Primary Backend)
+12-17 - DVR / Platform Servers (EseeCloud Core Infra)
+18-22 - Relay / Streaming Subnet 
+23-33 - AWS EC2 / Backend
+34-50 - AWS CloudFront (Streaming / CDN)
+51-68 - AWS (US / Global Fallback)
+69-88 - AWS (US-East Backend)
+89-93 - AWS (AWS Secondary)
